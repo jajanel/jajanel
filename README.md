@@ -1,2 +1,1 @@
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jajanel"/></a>
-[![GitHub Streak](https://streak-stats.demolab.com?user=jajanel)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jajanel&theme=dracula&border_radius=4.7&card_width=499)](https://git.io/streak-stats)
