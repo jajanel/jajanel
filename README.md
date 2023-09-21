@@ -8,10 +8,10 @@
 <p> 📅 Will finish my degree in Spring 2025 as a full stack developper. </p>
 
 <h3> Currently learning:</h3>
-<ol>
+<ul>
   <li> Object Oriented Programming in Java </li>
   <li> Web developpement (Javascipt, PHP)</li>
   <li> Data bases (Oracle, MySQL) </li>
   <li> Server management</li>
   <li> And much more to come...</li>
-</ol>
+</ul>
