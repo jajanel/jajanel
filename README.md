@@ -10,8 +10,9 @@
 <h3> Currently learning:</h3>
 <ul>
   <li> Object Oriented Programming in Java </li>
-  <li> Web developpement (Javascipt, PHP)</li>
+  <li> Web developpement (Javascript, PHP)</li>
   <li> Data bases (Oracle, MySQL) </li>
   <li> Server management</li>
+  <li> Networking </li>
   <li> And much more to come...</li>
 </ul>
