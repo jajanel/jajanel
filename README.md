@@ -1,6 +1,6 @@
 <h1> Hi ! 👀 I am Janelle. </h1>
 
-<h2> About me...<h2>
+<h2> About me..<h2>
 </br>
   
 <p> 📍  I am based in Québec City, Canada. I am fluent in both English and French. ⚜ </p>
