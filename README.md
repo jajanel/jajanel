@@ -1,8 +1,8 @@
 
+# Hello, I'm Janelle !
 ![Gif](https://static.wixstatic.com/media/265122_a8918477723c469abd0132476fb268ee~mv2.gif)
 
 
-# Hello, I'm Janelle !
 
 ## About me..
 
@@ -39,10 +39,7 @@
  - Bootstrap library
  - Hibernate framework
  
- 
-
-
-
+ #
 
 ![Gif](https://cdn.weasyl.com/static/media/2c/a5/b0/2ca5b04a88f99b48345e9234aa279187d7e37609ec9b90792ecb4d0c3d07f8db.gif)
 
