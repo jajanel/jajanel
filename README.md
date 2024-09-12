@@ -13,11 +13,17 @@
 
 📅 Degree ending Spring 2025, as a full stack developper. 
 
+✈️ Looking for a 2-3 months internship in Paris, FR for January 2025
+
 
 ## More about me..
-👩‍💻 I'm currently working on a copy of a Tinder... but for chickens!
+👩‍💻 I'm currently learning:
+  - React JS
+  - Unity and game development in C#
+  - Android mobile app developpement in Java
+  - Technology watch
+  - Spring boot and REST API
 
-🧠 I'm currently learning React to develop my front end skills.
 
 📫 Don't hesitate to reach me on my LinkedIn account found on my profile.
 
@@ -32,12 +38,16 @@
  - ASP.NET (MVC)
  - PHP
  - Javascript, React framework
- - SQL, MySQL
+ - SQL, MySQL, PL/SQL
  - Microsoft Active Directory
  - HTML, CSS
  - Figma design
  - Bootstrap library
  - Hibernate framework
+ - Unity
+ - Maven
+ - 
+
  
  #
 
