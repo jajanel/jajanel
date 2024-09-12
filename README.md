@@ -18,11 +18,11 @@
 
 ## More about me..
 👩‍💻 I'm currently learning:
-        - React JS
-        - Unity and game development in C#
-        - Android mobile app developpement in Java
-        - Technology watch
-        - Spring boot and REST API
+- React JS
+- Unity and game development in C#
+- Android mobile app developpement in Java
+- Technology watch
+- Spring boot and REST API
 
 
 📫 Don't hesitate to reach me on my LinkedIn account found on my profile.
