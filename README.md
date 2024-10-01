@@ -13,7 +13,7 @@
 
 📅 Degree ending Spring 2025, as a full stack developper. 
 
-✈️ Looking for a 2-3 months internship in Paris, FR for January 2025
+✈️ Looking for a 2-3 months internship in Paris or full remote for January 2025
 
 
 ## More about me..
