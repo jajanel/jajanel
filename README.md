@@ -26,7 +26,7 @@
 
 📫 Don't hesitate to reach me on my LinkedIn account found on my profile.
 
-⚡️ Fun fact, I live on a 36 acres land with my 5 beloved chickens ❤️ 
+⚡️ Fun fact, I live on a 36 acres land with my 4 beloved chickens ❤️ 
 
 
 
