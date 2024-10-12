@@ -13,7 +13,6 @@
 
 📅 Degree ending Spring 2025, as a full stack developper. 
 
-✈️ Looking for a 2-3 months internship in Paris or full remote for January 2025
 
 
 ## More about me..
@@ -38,17 +37,13 @@
  - ASP.NET (MVC)
  - PHP
  - Javascript, React framework
- - SQL, MySQL, PL/SQL
+ - SQL, MySQL
  - Microsoft Active Directory
  - HTML, CSS
  - Figma design
  - Bootstrap library
- - Hibernate framework
  - Unity
- - Maven
    
-
- 
  #
 
 ![Gif](https://cdn.weasyl.com/static/media/2c/a5/b0/2ca5b04a88f99b48345e9234aa279187d7e37609ec9b90792ecb4d0c3d07f8db.gif)
