@@ -16,11 +16,11 @@
 
 ## More about me..
 👩‍💻 I'm currently studying:
-- React JS
+- Frontend with React JS
+- Backend with Java Spring Boot
 - Unity and game development in C#
 - Android mobile app developpement in Java
-- Technology watch
-- Spring boot and REST API
+
 
 ##  My languages and tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,cs,dotnet,figma,github,idea,java,spring,jquery,materialui,mysql,php,unity,visualstudio,vite,maven,vscode,webstorm,postman,rider,phpstorm,npm,windows,git,bitbucket,kotlin)](https://skillicons.dev) 
