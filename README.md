@@ -3,7 +3,6 @@
 ![Gif](https://static.wixstatic.com/media/265122_a8918477723c469abd0132476fb268ee~mv2.gif)
 
 
-
 ## About me..
 
   
@@ -13,38 +12,23 @@
 
 📅 Degree ending Spring 2025, as a full stack developper. 
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/janellebed/) 
 
 ## More about me..
-👩‍💻 I'm currently learning:
+👩‍💻 I'm currently studying:
 - React JS
 - Unity and game development in C#
 - Android mobile app developpement in Java
 - Technology watch
 - Spring boot and REST API
 
+##  My languages and tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,cs,dotnet,figma,github,idea,java,spring,jquery,materialui,mysql,php,unity,visualstudio,vite,maven,vscode,webstorm,postman,rider,phpstorm,npm,windows,git,bitbucket,kotlin)](https://skillicons.dev) 
 
-📫 Don't hesitate to reach me on my LinkedIn account found on my profile.
-
-⚡️ Fun fact, I live on a 36 acres land with my 4 beloved chickens ❤️ 
-
+## Stats 
+<img alt="Janelle's streak" src="http://github-readme-streak-stats.herokuapp.com?user=jajanel&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/> <img alt="Janelle's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=jajanel&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E" height="196px"/>
 
 
-
-## 🛠 Skills
- - Java, JavaFX
- - C#
- - ASP.NET (MVC)
- - PHP
- - Javascript, React framework
- - SQL, MySQL
- - Microsoft Active Directory
- - HTML, CSS
- - Figma design
- - Bootstrap library
- - Unity
-   
- #
 
 ![Gif](https://cdn.weasyl.com/static/media/2c/a5/b0/2ca5b04a88f99b48345e9234aa279187d7e37609ec9b90792ecb4d0c3d07f8db.gif)
 
