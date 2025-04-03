@@ -6,20 +6,12 @@
 ## About me..
 
   
-📍  Based in Québec City, Canada ⚜
+📍  Based in Québec City, Canada / Paris, France ⚜
 
-👩🏻‍💻 In last year of App Developement at Cégep Limoilou.
+👩🏻‍💻 In my last semester of App Developement at Cégep Limoilou.
 
 📅 Degree ending Spring 2025, as a full stack developper. 
 
-
-
-## More about me..
-👩‍💻 I'm currently studying:
-- Frontend with React JS
-- Backend with Java Spring Boot
-- Unity and game development in C#
-- Android mobile app developpement in Java
 
 
 ##  My languages and tools
