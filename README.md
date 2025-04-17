@@ -12,6 +12,8 @@
 
 📅 Degree ending Spring 2025, as a full stack developper. 
 
+🔎 Looking for a end of study intership for fall 2025 in Paris or remote
+
 
 
 ##  My languages and tools
