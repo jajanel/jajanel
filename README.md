@@ -8,11 +8,11 @@
   
 📍  Based in Québec City, Canada / Paris, France ⚜
 
-👩🏻‍💻 In my last semester of App Developement at Cégep Limoilou.
+👩🏻‍💻 Graduate of Computer Sciences at Cégep Limoilou
 
-📅 Degree ending Spring 2025, as a full stack developper. 
+📅 Starting a Geography/GIS bachelor this fall 
 
-🔎 Looking for a end of study intership for fall 2025 in Paris or remote
+
 
 
 
